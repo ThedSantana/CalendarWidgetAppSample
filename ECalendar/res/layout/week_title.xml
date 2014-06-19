@@ -1,0 +1,16 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/week_title_linear"
+    android:layout_width="@dimen/date_cell_width"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/left_margin" >
+
+    <TextView
+        android:id="@+id/week_day_desc"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="@string/blank" >
+    </TextView>
+
+</LinearLayout>

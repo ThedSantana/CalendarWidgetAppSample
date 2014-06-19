@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ECalendar</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="blank"></string>
+	<string name="cols_size">7</string>
+	<string name="next_month">Next Month</string>
+	<string name="last_month">Last Month</string>
+	<string name="search">Search</string>
+	
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">5dp</dimen>
+    <dimen name="activity_vertical_margin">5dp</dimen>
+    
+    <dimen name="calendar_height">300dp</dimen>
+	<dimen name="calendar_width">300dp</dimen>
+	
+	<dimen name="date_cell_height">35dp</dimen>
+	<dimen name="date_cell_width">35dp</dimen>
+	
+	<dimen name="property_height">10dp</dimen>
+	
+	<dimen name="holiday_mark_width">25dp</dimen>
+	<dimen name="schedule_mark_width">12dp</dimen>
+	
+	<dimen name="date_height">15dp</dimen>
+	<dimen name="minor_height">13dp</dimen>
+	
+	<dimen name="week_height">15dp</dimen>
+	<dimen name="title_height">20dp</dimen>
+	<dimen name="title_month_width">85dp</dimen>
+	
+	<dimen name="holiday_mark_text">9sp</dimen>
+	<dimen name="date_text">12sp</dimen>
+	<dimen name="minor_text">10sp</dimen>
+	
+	<dimen name="left_margin">1dp</dimen>
+	<dimen name="top_margin">1dp</dimen>
+	
+</resources>
